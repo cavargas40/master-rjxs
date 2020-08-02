@@ -1,0 +1,27 @@
+{
+  "name": "master-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.6.2"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start:001": "parcel 001-initial-code/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavargas40/master-rjxs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavargas40/master-rjxs/issues"
+  },
+  "homepage": "https://github.com/cavargas40/master-rjxs#readme"
+}
